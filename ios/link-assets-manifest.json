@@ -1,0 +1,93 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/BentonSans Black.otf",
+      "sha1": "10dde8cc309a9d58434440677e2c9295e970c413"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Bold.otf",
+      "sha1": "9581db913868b1266f9a9bee9928012fc2d855bf"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Book.otf",
+      "sha1": "e76ad790c99aed4648f1790aec0bdee66949cca5"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Light.otf",
+      "sha1": "e47ed70b52e7afa4db9456be556188098850141f"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Medium.otf",
+      "sha1": "b1f1ebf2664b3c8d629585f3b9bddc8c7a4cd846"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Regular.otf",
+      "sha1": "30af182ebe647f450c7db739f426419b437476df"
+    },
+    {
+      "path": "src/assets/fonts/BentonSans Thin.otf",
+      "sha1": "766042a899c79a70cdca866362933489ecd7d49f"
+    },
+    {
+      "path": "src/assets/fonts/ComicNeue-Bold.ttf",
+      "sha1": "7909abf21cee16951e045b0a3d24955b3803475a"
+    },
+    {
+      "path": "src/assets/fonts/ComicNeue-BoldItalic.ttf",
+      "sha1": "f421eabc67421dda5a42be27573496296dd8b0c0"
+    },
+    {
+      "path": "src/assets/fonts/ComicNeue-Italic.ttf",
+      "sha1": "326025b3568368a9157f314feeedab572f4ecb4e"
+    },
+    {
+      "path": "src/assets/fonts/ComicNeue-Light.ttf",
+      "sha1": "0cf88fa5c42312cae61ff4430d91911f11e86720"
+    },
+    {
+      "path": "src/assets/fonts/ComicNeue-LightItalic.ttf",
+      "sha1": "5f3ee564ef6292ef12114225cc182ee774b192c5"
+    },
+    {
+      "path": "src/assets/fonts/ComicNeue-Regular.ttf",
+      "sha1": "3b8675efbb6b4e6d968e5d1ed8990d0a4d7f0db2"
+    },
+    {
+      "path": "src/assets/fonts/GothicA1-Black.ttf",
+      "sha1": "e770f2a11b06de84710c93ae5018edafd45d5a06"
+    },
+    {
+      "path": "src/assets/fonts/GothicA1-Bold.ttf",
+      "sha1": "964336aeb7aa4c5937ef80a5de148e15553a3e32"
+    },
+    {
+      "path": "src/assets/fonts/GothicA1-ExtraBold.ttf",
+      "sha1": "41d9b10d7c82d0f3014bdc13a917445241b7ef2c"
+    },
+    {
+      "path": "src/assets/fonts/GothicA1-ExtraLight.ttf",
+      "sha1": "7aeaf795db8375191d76befcb0b9591221b2cb24"
+    },
+    {
+      "path": "src/assets/fonts/GothicA1-Light.ttf",
+      "sha1": "11e0c73b257f13ccf8ac3a5714ed416aaca6810c"
+    },
+    {
+      "path": "src/assets/fonts/GothicA1-Medium.ttf",
+      "sha1": "f5652ddb8bfb329d2aa0d34ee5fcd1642505086e"
+    },
+    {
+      "path": "src/assets/fonts/GothicA1-Regular.ttf",
+      "sha1": "2b317060f837747c738ed7382c7b463cd3af3a71"
+    },
+    {
+      "path": "src/assets/fonts/GothicA1-SemiBold.ttf",
+      "sha1": "48dc1ba7b4db3688849cac04b5477166c2d3c34b"
+    },
+    {
+      "path": "src/assets/fonts/GothicA1-Thin.ttf",
+      "sha1": "a301a67b0207a227b4e61b3fe845519891325522"
+    }
+  ]
+}
